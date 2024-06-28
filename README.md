@@ -1,19 +1,5 @@
 
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ammar-misdhar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/Ammar_Misdhar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center"><font family="Arial">Hi 👋, I'm Ammar Misdha</font>r</h1>
+<h1 align="center"><font family="Poppins Medium">Hi 👋, I'm Ammar Misdha</font>r</h1>
 
 ###
 
@@ -53,7 +39,20 @@
 
 ###
 
-<h3 align="left">🔥 Thank you </h3>
+<h3 align="left">🔥 Link with me </h3>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/ammar-misdhar/" target="_blank">
+    <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/Ammar_Misdhar" target="_blank">
+    <img src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_twitter-256.png" height="35" alt="twitter logo"  />
+  </a>
+</div>
+
+###
 
 
 ###
